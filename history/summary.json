@@ -22,17 +22,19 @@
     "url": "https://events.deniz.blue",
     "icon": "https://events.deniz.blue/eventsdenizblue.svg",
     "slug": "deniz-s-events-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 386,
-    "timeWeek": 422,
-    "timeMonth": 422,
-    "timeYear": 422,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 406,
+    "timeDay": 376,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2025-06-25": 15
+    }
   }
 ]
