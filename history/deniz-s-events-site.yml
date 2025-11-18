@@ -1,7 +1,7 @@
 url: https://events.deniz.blue
-status: up
-code: 200
-responseTime: 891
-lastUpdated: 2025-11-18T12:52:40.887Z
+status: down
+code: 500
+responseTime: 336
+lastUpdated: 2025-11-18T13:28:54.676Z
 startTime: 2025-06-24T10:19:05.929Z
 generator: Upptime <https://github.com/upptime/upptime>
