@@ -9,6 +9,10 @@ sites:
   - name: Deniz's Events Site
     url: https://events.deniz.blue
     icon: https://events.deniz.blue/eventsdenizblue.svg
+  - name: eventsl.ink
+    url: https://eventsl.ink
+  - name: evnt.directory
+    url: https://evnt.directory
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
