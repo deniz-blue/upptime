@@ -6,9 +6,6 @@ sites:
   - name: deniz.blue
     url: https://deniz.blue
     icon: https://emoji-cdn.mqrio.dev/%E2%9C%A8?style=twitter
-  - name: Deniz's Events Site
-    url: https://events.deniz.blue
-    icon: https://events.deniz.blue/eventsdenizblue.svg
   - name: eventsl.ink
     url: https://eventsl.ink
   - name: evnt.directory
